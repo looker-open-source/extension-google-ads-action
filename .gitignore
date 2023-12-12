@@ -1,0 +1,12 @@
+node_modules
+dist
+!dist/index.js
+.cache
+.vscode
+.env
+.eslintcache
+.idea
+scratchpad.js
+explore.json
+bundle.js
+.DS_Store
